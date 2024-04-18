@@ -1,2 +1,2 @@
 # Nukplex
-#The source code for Nukplex will be avialiable soon.
+#The source code of Nukplex will be avialiable soon.
